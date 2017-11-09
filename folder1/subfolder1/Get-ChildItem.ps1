@@ -1,1 +1,1 @@
-Get-ChildItem -Path "C:\Windows"
+Get-ChildItem -Path "C:\Windows" -Recurse
