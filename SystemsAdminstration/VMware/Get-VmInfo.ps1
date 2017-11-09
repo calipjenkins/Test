@@ -1,1 +1,2 @@
 Get-VM
+Get-VMHost
